@@ -1,6 +1,6 @@
 # problemSolvingProject
 
-## 문제해결 with python, java
+### 문제해결 with python, java
 
 * 음계
 * 블랙잭
